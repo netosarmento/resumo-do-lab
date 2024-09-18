@@ -14,4 +14,15 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - Escalabilidade e elasticidade 
 - Confiabilidade, previsibilidade e segurança 
 - Governança e Gerenciabilidade
+
+## Resumo | 3
+- Modelos de Serviços
+### IaaS,PaaS,SaaS
+
+- IaaS : Infraestrutura como serviço, mais nossas (Dev) responsabilidade.
+
+- PaaS : Plataforma como serviço, ambas responsabilidade. 
+
+- SaaS : Software como serviço. menos responsabilidade.
+
   
