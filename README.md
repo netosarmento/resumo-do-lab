@@ -25,4 +25,23 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 - SaaS : Software como serviço. menos responsabilidade.
 
-  
+  ## Resumo | 4
+
+Arquitetura:
+- Alta disponibilidade
+- Pares de regiões para, manter disponibilidade.
+- Conjunto de disponibilidade, domínio de atualizações e domínio de falhas.
+- Recuperação automática mas somente para alguns serviços.
+- Zonas de disponibilidade possibilita, alta disponibilidade e baixa latência.
+- regiões soberanas:
+- Azure EUA - área militar 
+- Azure China - Operado pela 21vianet
+- Datacenters
+- Grupo de recursos, escolher recursos e região
+- Conta Azure:
+- Assinaturas
+- Desenvolvimento, Teste e Produção
+- Grupos de gerenciamento das assinaturas.
+
+Site infraestrutura Azure:
+https://azure.microsoft.com/en-us/explore/global-infrastructure
