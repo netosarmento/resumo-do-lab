@@ -25,7 +25,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 - SaaS : Software como serviço. menos responsabilidade.
 
-  ## Resumo | 4
+## Resumo | 4
 
 Arquitetura:
 - Alta disponibilidade
