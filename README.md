@@ -70,4 +70,30 @@ Rede de computação
 - DNS Azure
 - VM e contêineres são isolados do hardwares e do host.
 - Famílias de VM's : LAMP stack using Azure VM, Scalable WordPress using Azure VM, VM Starter Kit Linux.
-- Para possibilitar comunicação entre redes virtuais é necessário emparelhamento de redes
+- Para possibilitar comunicação entre redes virtuais é necessário emparelhamento de redes.
+
+## Resumo | 6
+
+Armazenamento:
+
+- Azcopy: Gerenciar armazenamento.
+- Sincronização de arquivos Azure
+- Migrações 
+- Azure DataBox
+- Configurações de redundância 
+- LRS ( Armazenamento com redundância local ) : Implementação: data center individual na região primária / 11 noves
+- ZRS ( Armazenamento com redundância na zona ) : Implementação: Três zonas de disponibilidade na região primária / 12 noves
+- GRS ( Armazenamento com redundância geografica ) : Implementação: Data Center único  região primária e secundária / 16 noves
+- ZGRS ( Armazenamento com redundância na zona geografica ) : Implementação: Três zonas de disponibilidade na região primária e Data Center único  região secundária / 16 noves
+- Pontos de Extremidades públicos, de Armazenamento.
+- Armazenamento blog, Data Lake, Armazenamento Azure, Armazenamento filas, Armazenamento em tabelas.
+- Camadas de acesso.
+- Frequente / Esporádico / Frio / Arquivo morto
+- Azure DataBox comporta até 80 TB
+- DataBox Disk / DataBox / DataBoxHeavy ( Caminhão )
+- Conectar o Storage account :
+- Verificar letra de unidade 
+- Métodos de Autenticação 
+- Chave da conta de armazenamento 
+- Activety direct no Microsoft
+- Protocolo SMB porta 445
