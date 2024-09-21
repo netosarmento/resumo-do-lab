@@ -97,3 +97,35 @@ Armazenamento:
 - Chave da conta de armazenamento 
 - Activety direct no Microsoft
 - Protocolo SMB porta 445
+
+## Resumo | 7
+
+Identidade, acesso e segurança: domínio e objetivo 
+
+- Conceito de confiança zero
+
+- Finalidade de um Modelo de defesa em profundidade 
+
+- Descrever finalidade do Microsoft defender pra nuvem 
+
+- Microsoft entra id ( Active Directory )
+
+- Logon único ( SSO )
+
+- Negócios para negócios ( B2B )
+
+- Gerenciamento de aplicativos e dispositivos 
+
+- Autenticação MFA
+
+Acesso Condicional:
+
+- Associação de um usuário ao grupo 
+
+- Local do IP
+
+- Dispositivo
+
+- Aplicativo 
+
+- Detecção de riscos
