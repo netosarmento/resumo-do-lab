@@ -159,3 +159,15 @@ Ferramentas de Implementação de Recursos:
 - Azure Arc e Azure Resources Manage.
 - Bícep ( Linguagem Cloud Microsoft )
 - Azure Resource Manager ( Json )
+
+## Resumo| 10
+
+Ferramentas de Monitoramento do Azure :
+
+- Assistente do Azure ( Confiabilidade, Segurança, Desempenho, Custo, Excelência Operacional )
+
+- Integridade do Serviço Azure
+
+- Resource Health
+
+- Azure Monitor : Maximizar o desempenho de aplicativos e serviços, tomando decisões com base na telemetria do ambiente em nuvem.
