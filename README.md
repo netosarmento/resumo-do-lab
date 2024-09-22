@@ -140,3 +140,15 @@ Gerenciamento de custos :
 - Calculadora de Preço : https://azure.microsoft.com/en-us/pricing/calculator/
 - Diferentes estratégias para utilizar VM's  
 - Pagar por uso / Reserva / modelo híbrido / diminuir tempo útil.
+
+## Resumo| 9
+
+Governança e Confirmadade: 
+
+- Blueprints, Políticas e Bloqueio de recursos.
+- Azure Policy : Políticas de padrões organizacionais para conformidade em escala.
+- Ele fornece governança e consistência de recursos com conformidade regulatória, segurança, custo e gerenciamento.
+- Bloqueio de Recursos :
+- Proteja os recursos do Azure, de ser deletado ou modificado acidentalmente .
+- Microsoft Purview.
+- Portalde Confiança do serviço.
