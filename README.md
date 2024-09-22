@@ -129,3 +129,14 @@ Acesso Condicional:
 - Aplicativo 
 
 - Detecção de riscos
+
+## Resumo| 8
+
+Gerenciamento de custos :
+
+- TCO ( Calculadora Total de Propriedade )
+- Custos e Previsibilidade de valores 
+- TCO : https://azure.microsoft.com/en-us/pricing/tco/calculator/
+- Calculadora de Preço : https://azure.microsoft.com/en-us/pricing/calculator/
+- Diferentes estratégias para utilizar VM's  
+- Pagar por uso / Reserva / modelo híbrido / diminuir tempo útil.
