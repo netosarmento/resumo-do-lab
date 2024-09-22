@@ -152,3 +152,10 @@ Governança e Confirmadade:
 - Proteja os recursos do Azure, de ser deletado ou modificado acidentalmente .
 - Microsoft Purview.
 - Portalde Confiança do serviço.
+
+Ferramentas de Implementação de Recursos:
+
+- PowerShell, CLI, portal
+- Azure Arc e Azure Resources Manage.
+- Bícep ( Linguagem Cloud Microsoft )
+- Azure Resource Manager ( Json )
